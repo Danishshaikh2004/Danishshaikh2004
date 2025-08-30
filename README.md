@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danishshaikh2004</h1>
+<h1 align="center">Hi 👋, I'm Danish Shaikh</h1>
 <h3 align="center">Exploring full stack development while growing as a frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishshaikh2004&label=Profile%20views&color=0e75b6&style=flat" alt="danishshaikh2004" /> </p>
